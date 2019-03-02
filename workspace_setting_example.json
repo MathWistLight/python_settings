@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "<your pythonpath>",
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.formatting.provider": "autopep8",
+    "editor.formatOnSave": true
+}

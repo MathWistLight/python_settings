@@ -1,0 +1,6 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "python.linting.flake8Args": [
+        "--ignore=E501"
+    ]
+}
